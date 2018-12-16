@@ -1,6 +1,6 @@
 '''
 Amy Green - 200930437
-5990M: Introduction to Programming for Geopgraphical Information Analysis - Core Skills
+5990M: Introduction to Programming for Geographical Information Analysis - Core Skills
 Assignment 1: Building a Simple Agent Based Model (ABM)
 _version 1.0_
 
