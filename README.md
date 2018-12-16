@@ -1,5 +1,12 @@
 ![Uni Logo](LeedsLogo.png) 
 # 5990M: Introduction to Programming for Geographical Information Analysis - Core Skills
+
+## About Me
+
+I am student at the University of Leeds studying for a Masters in Geographical Information Systems (GIS). 
+The GitHub repository linked is for Assignment 1 of my current 'Introduction to Programming' module. 
+
+
 ## Assignment 1: Building a Simple Agent Based Model (ABM)
 
 #### This source code, written in Python, generates a simple agent based model. 
