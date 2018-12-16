@@ -4,8 +4,7 @@ Amy Green - 200930437
 Assignment 1: Building a Simple Agent Based Model (ABM)
 _version 1.0_
 
-The agent framework holds a basic Agent class to allow movement within a 2D plane environment 
-which incorporates interaction between all other agents within this shared environment. 
+The agent framework holds a basic Agent class to allow movement within a 2D plane environment which incorporates interaction between all other agents within this shared environment. 
 '''
 
 import random

@@ -157,7 +157,7 @@ model_menu.add_command(label="Run Model", command=run)
 tkinter.mainloop()
 ##############################################################################
 
-'''n.b: A second window named 'Figure' will also appear nut this can be ignored.'''
+'''n.b: A second window named 'Figure' will also appear but this can be ignored.'''
 
 '''END OF MODEL'''
 
